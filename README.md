@@ -328,7 +328,8 @@ Potential extensions include:
 
 ## Author
 
-Harshit Nainwal
+Shreya
+
 B.Tech Computer Science and Engineering (Regional)
 
 ---
