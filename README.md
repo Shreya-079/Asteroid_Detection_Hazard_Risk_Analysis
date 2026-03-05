@@ -329,8 +329,7 @@ Potential extensions include:
 ## Author
 
 Shreya
-
-B.Tech Computer Science and Engineering (Regional)
+B.Tech Computer Science and Engineering 
 
 ---
 
